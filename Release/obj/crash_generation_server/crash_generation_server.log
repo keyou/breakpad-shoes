@@ -1,0 +1,10 @@
+﻿  client_info.cc
+  crash_generation_server.cc
+  minidump_generator.cc
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file client_info.cc)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file minidump_generator.cc)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file client_info.cc)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file minidump_generator.cc)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file crash_generation_server.cc)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared (compiling source file crash_generation_server.cc)
+  crash_generation_server.vcxproj -> X:\02.VS2013 Projects\C++\BreakPadDemo\Release\lib\crash_generation_server.lib

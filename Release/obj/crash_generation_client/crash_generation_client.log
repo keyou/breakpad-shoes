@@ -1,0 +1,4 @@
+﻿  crash_generation_client.cc
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+  crash_generation_client.vcxproj -> X:\02.VS2013 Projects\C++\BreakPadDemo\Release\lib\crash_generation_client.lib

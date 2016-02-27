@@ -1,0 +1,6 @@
+﻿  exception_handler.cc
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+exception_handler.cc(924): warning C4189: 'em': local variable is initialized but not referenced
+exception_handler.cc(923): warning C4189: 'e': local variable is initialized but not referenced
+  exception_handler.vcxproj -> X:\02.VS2013 Projects\C++\BreakPadDemo\Release\lib\exception_handler.lib
